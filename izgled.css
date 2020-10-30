@@ -1,0 +1,79 @@
+.forma {
+    width: 350px;
+    height:700px;
+    border: 5px solid black;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;;
+    padding-right: 20px;
+    padding-left: 20px;
+    display:grid;
+    grid-template-columns: max-content;
+    grid-gap:10px;
+    justify-content:center;
+    text-decoration: blue;
+    text-align:left;
+    background-color:#99ccff;
+    font-size:30px;
+    }
+
+    .prvi
+    {
+        font-size: larger;
+        color:red;
+        text-align:center;
+    }
+    .moto{
+    border-radius:2px;
+    border:3px solid black;
+    }
+    .sadrzaj{
+        width:auto;
+        display:inline-block;
+    }
+    .prvisadrzaj{
+        float:left;
+        width:350px;
+        display:inline-block;
+    }
+    .proizvod{
+        text-align:center;
+    }    
+    .drugideo
+    {
+        width:600px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-right: 20px;
+        margin-left:20px;
+        display:inline-block;
+    }
+    .boxsadrzaj
+    {
+            vertical-align: top;
+            width: 160px;
+            display: inline-block;
+            border-radius: 15px;
+            background-color: #00ffcc;
+            margin-left: 5px;
+            margin-bottom: 5px;
+            padding:3px;
+            
+    }
+    .proizvodi
+    {
+        width:550px;
+        height:800px;
+    }
+    .slika{
+        max-width: 100%;
+        min-width:100%;
+    }
+    .naziv
+{
+    text-align:center;
+}
+.kolicina
+{
+    width:50px;
+}
